@@ -882,9 +882,9 @@ section {
   }
 }
 
-button {
-  border-radius: 0;
-  background-color: rgba(20, 157, 221, 0.75);
+button, select {
+    text-transform: none;
+    background-color: blue;
 }
 
 /*--------------------------------------------------------------
