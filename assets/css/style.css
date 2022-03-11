@@ -884,7 +884,7 @@ section {
 
 button, select {
     text-transform: none;
-    background-color: blue;
+    background-color: rgba(20, 157, 221, 0.75);
 }
 
 /*--------------------------------------------------------------
